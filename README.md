@@ -26,3 +26,10 @@ Algorithmic fairness has aroused considerable interests in data mining and machi
 ### List-wise Fairness Criterion for Point Processes
 
 ### Towards Fair Truth Discovery from Biased Crowdsourced Answers
+
+## KDD 2019
+### Paper Matching with Local Fairness Constraints
+### Fairness in Recommendation Ranking through Pairwise Comparisons
+### Fairness-Aware Ranking in Search & Recommendation Systems with Application to LinkedIn Talent Search
+### Mathematical Notions vs. Human Perception of Fairness: A Descriptive Approach to Fairness for Machine Learning
+### Two-Sided Fairness for Repeated Matchings in Two-Sided Markets: A Case Study of a Ride-Hailing Platform
