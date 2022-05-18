@@ -1,5 +1,7 @@
 # paperlist
+This is the paper list for KDD 2019-2021 with the topic ``fairness''
 ## KDD 2021
+
 ### Deep Clustering based Fair Outlier Detection
 
 ### Explaining Algorithmic Fairness Through Fairness-Aware Causal Path Decomposition
